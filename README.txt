@@ -1,17 +1,17 @@
-Éî¶ÈÑ§Ï°µ¼ÂÛ¿ÎÉÏµÄmatlabÊµÏÖ¾í»ýÉñ¾­ÍøÂçµÄ´úÂë£¬ÊÖÐ´Êý×ÖÊ¶±ð×÷Òµ
+æ·±åº¦å­¦ä¹ å¯¼è®ºè¯¾ä¸Šçš„matlabå®žçŽ°å·ç§¯ç¥žç»ç½‘ç»œçš„ä»£ç ï¼Œæ‰‹å†™æ•°å­—è¯†åˆ«ä½œä¸š
 
-W_update_xxxxx:È¨Öµ¸üÐÂº¯Êý
-showACC_xxxxx:¸ù¾Ý´¢´æµÄ½á¹û¿ìËÙ¸ø³öÕýÈ·ÂÊ
-results_xxxxx:ÑµÁ·½á¹û´¢´æ£¬±£´æÓÐ¸÷ÀàÍøÂçÑµÁ·³öµÄÈ¨Öµ
-main_xxxxx:Ö÷º¯Êý
+W_update_xxxxx:æƒå€¼æ›´æ–°å‡½æ•°
+showACC_xxxxx:æ ¹æ®å‚¨å­˜çš„ç»“æžœå¿«é€Ÿç»™å‡ºæ­£ç¡®çŽ‡
+results_xxxxx:è®­ç»ƒç»“æžœå‚¨å­˜ï¼Œä¿å­˜æœ‰å„ç±»ç½‘ç»œè®­ç»ƒå‡ºçš„æƒå€¼
+main_xxxxx:ä¸»å‡½æ•°
 
-TwoHiddenlayers Á½²ãÒþ²Ø²ãµÄ¼òµ¥Éñ¾­ÍøÂç
-OneHiddenlayer  µ¥²ãÒþ²Ø²ãµÄ¼òµ¥Éñ¾­ÍøÂç
-NoHiddenlayer   ÎÞÒþ²Ø²ãµÄ¼òµ¥Éñ¾­ÍøÂç
-CNNTwoHiddenLayers ÅÐ±ðÍøÂçÓÐÁ½²ãÒþ²ãµÄCNN
-CNNdropout  Ê¹ÓÃdropout·½·¨µÄCNN
-CNN ×îÖÕµÃ³öÑµÁ·½á¹û×îºÃµÄCNNÍøÂç
+TwoHiddenlayers ä¸¤å±‚éšè—å±‚çš„ç®€å•ç¥žç»ç½‘ç»œ
+OneHiddenlayer  å•å±‚éšè—å±‚çš„ç®€å•ç¥žç»ç½‘ç»œ
+NoHiddenlayer   æ— éšè—å±‚çš„ç®€å•ç¥žç»ç½‘ç»œ
+CNNTwoHiddenLayers åˆ¤åˆ«ç½‘ç»œæœ‰ä¸¤å±‚éšå±‚çš„CNN
+CNNdropout  ä½¿ç”¨dropoutæ–¹æ³•çš„CNN
+CNN æœ€ç»ˆå¾—å‡ºè®­ç»ƒç»“æžœæœ€å¥½çš„CNNç½‘ç»œ
 
-ÆäËûµÄÎª±»µ÷ÓÃµÄº¯Êý
+å…¶ä»–çš„ä¸ºè¢«è°ƒç”¨çš„å‡½æ•°
 
-MNISTData.m: ÎÄ¼þ>30MÎÞ·¨Ö±½ÓÉÏ´«µ½github¿ÉÒÔÔÚÍøÉÏ×Ô¼ºÑ°ÕÒ
+MNISTData.mat: æ–‡ä»¶>30Mæ— æ³•ç›´æŽ¥ä¸Šä¼ åˆ°githubå¯ä»¥åœ¨ç½‘ä¸Šè‡ªå·±å¯»æ‰¾
